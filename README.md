@@ -380,7 +380,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 **Kshitij Datir**
 
 - GitHub: [@KshitijDatir](https://github.com/KshitijDatir)
-- LinkedIn: [Kshitij Datir](https://www.linkedin.com/in/kshitij-datir)
+- LinkedIn: [Kshitij Datir](https://www.linkedin.com/in/kshitij-datir-30153b28a)
 
 ---
 

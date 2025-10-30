@@ -85,7 +85,7 @@ Real-time voice-based emotion detection using Deep Learning (CNN) trained on IES
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ML_MiniProject.git
+git clone https://github.com/KshitijDatir/VoiceBasedEmotionRecognision.git
 cd ML_MiniProject
 ```
 
@@ -379,8 +379,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 **Kshitij Datir**
 
-- GitHub: [@YOUR_GITHUB]
-- LinkedIn: [Your LinkedIn]
+- GitHub: [@KshitijDatir](https://github.com/KshitijDatir)
+- LinkedIn: [Kshitij Datir](https://www.linkedin.com/in/kshitij-datir)
 
 ---
 
@@ -396,8 +396,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📞 Support
 
 For issues and questions:
-- Open an [Issue](https://github.com/YOUR_USERNAME/ML_MiniProject/issues)
-- Email: your.email@example.com
+- Email: kshitijdatir1@gmail.com
 
 ---
 
